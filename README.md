@@ -30,10 +30,10 @@ I translate complex business requirements into working technical solutions, with
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Full-ND-app-build](https://github.com/abbyluggery/Full-ND-app-build) | Enterprise Salesforce platform with AI-powered job analysis, resume generation, and wellness tracking | Apex, SOQL, LWC, Claude AI, REST API |
-| [SafeHaven-Build](https://github.com/abbyluggery/SafeHaven-Build) | Privacy-focused mobile security application with encrypted evidence storage and blockchain verification | Kotlin, Jetpack Compose, Room, AES-256-GCM |
+| [salesforce-ai-platform](https://github.com/abbyluggery/salesforce-ai-platform) | Enterprise Salesforce platform with AI-powered job analysis, resume generation, and wellness tracking | Apex, SOQL, LWC, Claude AI, REST API |
+| [safehaven-android](https://github.com/abbyluggery/safehaven-android) | Privacy-focused mobile security application with encrypted evidence storage and blockchain verification | Kotlin, Jetpack Compose, Room, AES-256-GCM |
 | [neurothrive-pwa](https://github.com/abbyluggery/neurothrive-pwa) | Progressive Web App with offline-first architecture and Salesforce synchronization | JavaScript, Service Workers, IndexedDB, OAuth 2.0 |
-| [Watery-Tart-giving-out-Swards-](https://github.com/abbyluggery/Watery-Tart-giving-out-Swards-) | Personal AI assistant with episodic memory, security sandboxing, and emergency response capabilities | Python, FastAPI, SQLite, Claude API, Ollama |
+| [personal-ai-security-assistant](https://github.com/abbyluggery/personal-ai-security-assistant) | Personal AI assistant with episodic memory, security sandboxing, and emergency response capabilities | Python, FastAPI, SQLite, Claude API, Ollama |
 
 ---
 
