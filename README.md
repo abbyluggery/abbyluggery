@@ -32,6 +32,7 @@ I translate complex business requirements into working technical solutions, with
 |---------|-------------|--------------|
 | [salesforce-ai-platform](https://github.com/abbyluggery/salesforce-ai-platform) | Enterprise Salesforce platform with AI-powered job analysis, resume generation, and wellness tracking | Apex, SOQL, LWC, Claude AI, REST API |
 | [journal-ecommerce-platform](https://github.com/abbyluggery/journal-ecommerce-platform) | E-commerce system with print-on-demand fulfillment, automated marketing, and customer lifecycle management | Apex, Lulu API, Pinterest API, OAuth 2.0 |
+| [recipe-aggregator](https://github.com/abbyluggery/recipe-aggregator) | ETL pipeline aggregating recipes from 3 APIs with quality filtering, React browser, and Salesforce Meal__c integration | Python, pandas, React 18, REST APIs |
 | [safehaven-android](https://github.com/abbyluggery/safehaven-android) | Privacy-focused mobile security application with encrypted evidence storage and blockchain verification | Kotlin, Jetpack Compose, Room, AES-256-GCM |
 | [neurothrive-pwa](https://github.com/abbyluggery/neurothrive-pwa) | Progressive Web App with offline-first architecture and Salesforce synchronization | JavaScript, Service Workers, IndexedDB, OAuth 2.0 |
 | [personal-ai-security-assistant](https://github.com/abbyluggery/personal-ai-security-assistant) | Personal AI assistant with episodic memory, security sandboxing, and emergency response capabilities | Python, FastAPI, SQLite, Claude API, Ollama |
