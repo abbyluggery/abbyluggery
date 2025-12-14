@@ -10,7 +10,7 @@ I translate complex business requirements into working technical solutions, with
 
 **Enterprise Platforms**
 - Salesforce applications with AI integration (Claude API)
-- 157 Apex classes, 20+ custom objects, 75%+ test coverage
+- 80+ Apex classes, 20+ custom objects, 75%+ test coverage
 - REST API design, OAuth 2.0, complex data models
 
 **Security-First Applications**
